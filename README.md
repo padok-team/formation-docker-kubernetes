@@ -1,6 +1,8 @@
 
 # Dojo Kubernetes (EKS)
 
+TL;DR : Les solutions sont ici https://github.com/ChapChap/argo-dojo-kube
+
 Ce repository contient les ressources et la documentation pour déployer un cluster Kubernetes et travailler dessus dans le cadre du dojo.
 
 Ordre recommandé :
